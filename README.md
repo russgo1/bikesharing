@@ -28,22 +28,22 @@ The following data include breakdowns by gender, so it is meaningful to first un
 The above image shows that gender has little effect on checkout times. The gender breakdowns closely match the non-gender chart and look to be in proportion with the overall gender breakdown. Riders of unknown gender do not slope down as steeply from 5 minutes as do male and female riders.
 
 ### Trips per weekday per hour
-![BikesharingStory4](https://user-images.githubusercontent.com/114126935/214343139-d7a12786-d78a-4ab1-ba24-7123cc99b5c9.png)
+![BikesharingStory4](https://user-images.githubusercontent.com/114126935/214394951-9e1af667-e68a-4fdf-8723-1257c59b8b63.png)
 
 This heat map allows us to see that the most popular ride times on weekdays are 7:00AM to 10:00AM and 5:00PM to 8:00PM. On weekends the most popular times are about 9:00AM to 5:00PM. This graph also shows that 1:00AM to 5:00AM are unpopular all week. Perhaps this is when bike maintenance should be done. 
 
 ### Trips by gender (weekday per hour)
-![BikesharingStory5](https://user-images.githubusercontent.com/114126935/214343181-1bdb927d-0b77-464b-8661-91a825cc3014.png)
+![BikesharingStory5](https://user-images.githubusercontent.com/114126935/214394987-5f2d5dba-0812-47a1-b037-0bae7584b01d.png)
 
 These heat maps break down the prior one by gender. They show little difference between male and female riders. Riders of unknown gender look to be slightly more busy on the weekends than on weekdays. Perhaps this has something to do with how gender data was originally collected. 
 
 ### User trips by gender by weekday
-![BikesharingStory6](https://user-images.githubusercontent.com/114126935/214343233-9cd79bc9-8980-4f2c-b942-919f09db141d.png)
+![BikesharingStory6](https://user-images.githubusercontent.com/114126935/214395014-52500499-8545-4c67-998b-e0561be7e963.png)
 
 This visualization shows several things. First, we can see that subscribers are much busier than customers. It looks that for both male and female subscribers, Monday, Tuesday, Thursday, and Friday are the busiest days of the week (indicated by the very dark blue rectangles). We can also see that customers are busier on the weekends than on weekdays. Furthermore, as indicated by the darker shades of blue, there are more customers of unknown gender than subscribers of unknown gender. This may have to do with the way gender information is collected or reported by Citi Bike for subscribers versus customers. 
 
 ### Bikes needing maintenance
- ![BikesharingStory7](https://user-images.githubusercontent.com/114126935/214343269-41da1d95-828f-4f05-ad65-2080ce6d42f0.png)
+![BikesharingStory7](https://user-images.githubusercontent.com/114126935/214395035-bfdfb7e9-fd5a-46fa-a46c-0436747c0834.png)
 
 In the above image, each rectangle represents a bike. A rectangle’s position and color display how much the bike that it represents is used. For each time a bike is used, its rectangle moves up and towards the left. This chart helps us to approximate the proportion of bikes that are most used and will require more frequent attention. Red rectangles represent heavily used bikes, and black rectangles represent less frequented bikes. 
 
