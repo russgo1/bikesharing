@@ -4,9 +4,9 @@
 The purpose of this analysis is to visualize data from the Citi Bike bike-sharing program in NYC. These visualizations will help investors to understand the viability of starting bike sharing programs in other cities, helping entrepreneurs to secure funding. 
 
 ### The data
-This analysis is based on data provided by Citi Bike for the month of August 2019. August was chosen based on a presumption that summer months will be the most busy and produce a bette approximation of peak service demands. 
+This analysis is based on data provided by Citi Bike for the month of August 2019. August was chosen based on a presumption that summer months will be the most busy and produce a better approximation of peak service demands. 
 
-Generally, these visualizations show how long most bike trips last and when the most bike trips happen. This information is additionally  broken down in to gender and subscription status of customers. Also included is the overall gender make-up of the riders studied, and a graph depicting which bikes are used the most, giving an idea of how much maintenance may need to be done on a potential bike fleet. 
+Generally, these visualizations show how long most bike trips last and when the most bike trips happen. This information is additionally broken down in to gender and subscription status of customers. Also included is the overall gender make-up of the riders studied, and a graph depicting which bikes are used the most, giving an idea of how much maintenance may need to be done on a potential bike fleet. 
 
 ## Results
 
@@ -46,7 +46,6 @@ This visualization shows several things. First, we can see that subscribers are 
 ![BikesharingStory7](https://user-images.githubusercontent.com/114126935/214395035-bfdfb7e9-fd5a-46fa-a46c-0436747c0834.png)
 
 In the above image, each rectangle represents a bike. A rectangle’s position and color display how much the bike that it represents is used. For each time a bike is used, its rectangle moves up and towards the left. This chart helps us to approximate the proportion of bikes that are most used and will require more frequent attention. Red rectangles represent heavily used bikes, and black rectangles represent less frequented bikes. 
-
 
 ## Summary
 In conclusion, these visualizations may lead us to expect that,
